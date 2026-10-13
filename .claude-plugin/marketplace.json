@@ -18,8 +18,15 @@
         "name": "tell-k"
       },
       "repository": "https://github.com/tell-k/digesta",
-      "keywords": ["meeting", "minutes", "graphic-recording", "video", "digest"],
-      "category": "productivity"
+      "keywords": [
+        "meeting",
+        "minutes",
+        "graphic-recording",
+        "video",
+        "digest"
+      ],
+      "category": "productivity",
+      "license": "MIT"
     }
   ]
 }
