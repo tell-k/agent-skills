@@ -15,6 +15,7 @@ The skills are standard Agent Skills, so they can also be installed into other a
 npx skills add tell-k/digesta
 ```
 
-| Plugin | Description |
-|---|---|
-| [digesta](https://github.com/tell-k/digesta) | Turns a meeting or study-session recording and its transcript into minutes, a graphic recording, and a digest video (built for Japanese meetings) |
+## Plugins
+
+- **[digesta](https://github.com/tell-k/digesta)**
+  - Turns a meeting or study-session recording and its transcript into minutes, a graphic recording, and a digest video (built for Japanese meetings)
