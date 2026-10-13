@@ -1,14 +1,14 @@
 # agent-skills
 
-tell-k の Claude Code プラグインのマーケットプレイス。
+A Claude Code plugin marketplace by tell-k.
 
 ```
 /plugin marketplace add tell-k/agent-skills
 /plugin install digesta@tell-k
 ```
 
-マーケットプレイス名は `tell-k`(`agent-skills` は Claude Code の予約名のため使えない)。
+The marketplace name is `tell-k` (`agent-skills` is a reserved name in Claude Code and cannot be used).
 
-| プラグイン | 内容 |
+| Plugin | Description |
 |---|---|
-| [digesta](https://github.com/tell-k/digesta) | 会議や勉強会の録画と文字起こしから、議事録・グラフィックレコーディング画像・ダイジェスト動画を作る |
+| [digesta](https://github.com/tell-k/digesta) | Turns a meeting or study-session recording and its transcript into minutes, a graphic recording, and a digest video (built for Japanese meetings) |
